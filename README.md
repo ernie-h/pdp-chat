@@ -28,3 +28,6 @@ If the setup was done correctly, the app should've been built and an iPhone emul
 Use `cmd + r` to refresh app and `cmd +d` to shake the app.
 
 
+# Helpful Links
+React-native docs: https://facebook.github.io/react-native/docs/getting-started.html#creating-a-new-application
+How to buld a chat app (our initial stack): https://blog.expo.io/how-to-build-a-chat-app-with-react-native-3ef8604ebb3c
